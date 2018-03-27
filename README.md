@@ -71,7 +71,7 @@ Once we had our algorithms created we ran our program of algorithms to construct
 # Project Execution
 The project execution and phases are a living document that will change as the problem and solution are explored more thoroughly during the practice. 
 
-Phase 1: Set up environment
+**Phase 1: Set up environment**
 - Goal 
   + Identify libraries and prioritize functions if needed
   + Load data sets
@@ -83,7 +83,7 @@ Phase 1: Set up environment
 - Diagram
 - Code
 
-Phase 2: Create functions 
+**Phase 2: Create functions**
 - Goal 
   + Create three key functions that later will be used for portfolio construction and portfolio assessment.
   + The three functions are 
@@ -99,7 +99,7 @@ Phase 2: Create functions
 - Code
       
 
-Phase 3: Calculate Bench Portfolio Metrics
+**Phase 3: Calculate Bench Portfolio Metrics**
 - Goal 
   + Create metrics for the reconstructed benchmark portfolio, so that we can compare them to our own benchmark metrics.
       + Returns and Relative Returns 
@@ -111,14 +111,14 @@ Phase 3: Calculate Bench Portfolio Metrics
 - Diagram
 - Code
 
-Phase 4: Construct Final Dataset 
+**Phase 4: Construct Final Dataset** 
 - Goal 
   + Create a single final dataset from multiple datasets provided for portfolio building and assessment 
 - Data Input
 - Diagram
 - Code
 
-Phase 5: Create Return Matrix 
+**Phase 5: Create Return Matrix** 
 - Goal 
   + Collect all returns from the given data and put it into a matrix format in order use it in our solution function Construct_PF. Two possible ways is to use a simple mean with a recency bias and using a bayesian hierarchical model. The input to the solution needs a vector of expected returns with the same length as number of stocks.
   + Recency Bias using one year actual returns
@@ -128,7 +128,7 @@ Phase 5: Create Return Matrix
 - Diagram
 - Code
 
-Phase 6: Construct Portfolio with Constraints 
+**Phase 6: Construct Portfolio with Constraints** 
 - Goal 
   + Create an optimized Markowitz Portfolio while adding in additional constraints, as required by the competition rules, using the Construct_PF function. The constraints were as follows: The portfolio only consisted of long positions, all asset weights were non-negative. The portfolio must also be fully invested at all times/weights sum to one. Max allocation in any asset was limited to 5%. Sector allocation was limited to 10%.  Limit the target number of distinct assets in the portfolio to 50-70.
 - Data Input
@@ -136,7 +136,7 @@ Phase 6: Construct Portfolio with Constraints
 - Code
 
 
-Phase 7: Create Annual Data Table 
+**Phase 7: Create Annual Data Table** 
 - Goal 
   + Create data table that returns metrics for our portfolio on an annual basis. This includes metrics such as:
       + Annual Benchmark Portfolio Returns (Ann_Bench_Returns)
@@ -153,15 +153,15 @@ Phase 7: Create Annual Data Table
 - Code
 
 
-Phase 8: Save Data and Visualize Performance 
+**Phase 8: Save Data and Visualize Performance** 
 - Data Input
   + Use annual data table and the recreated benchmark portfolio statistics to create various data visualizations to compare performance over a ten year period.
 - Diagram
 - Code
 
-Appendix 1: Data Dictionary  
+**Appendix 1: Data Dictionary**  
 
-Appendix 2: Key Data Inputs
+**Appendix 2: Key Data Inputs**
 Provided by the contest organization, which includes:
 1. Covariance data 
   + This dataset is supplied in a long format and was given for every four weeks over a ten year period from 01-03-2007 to 12-21-2016. 
