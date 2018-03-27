@@ -1,4 +1,5 @@
 
+# Table of Content
 
 **Team Introduction** 
 * individual background introduction
@@ -7,11 +8,11 @@
 **Project Description** 
 * Executive Summary 
 * Problem Statement 
-* Problem Description 
-* Data Description
-* Our Solution 
-* Outcome Description 
-* Solution Assessment and Impact 
+  + Problem Description 
+  + Data Description
+  + Our Solution 
+  + Outcome Description 
+  + Solution Assessment and Impact 
 
 **Project Execution** 
 * Phase 1: Set up environment 
@@ -34,42 +35,35 @@
 * Future Improvement on Technical Project Collaboration
   + Cloud Computer Solutions  
 
+# Team Introduction
+(blank)
 
+# Project Description
+## Executive Summary 
+Managing technical teams poses unique challenges. We considered and addressed them in the initial planning stages of our technical project. In this case study we had difficulties in the planning portion of our project that lead to reduced time in validation of our submission. We have outlined a prefered process to address the potential issues to help provide better management of our present and future projects. The goal is to prevent some common pitfalls of technical teams without extensive project management experience. 
 
-## Project Description
+## Problem Statement
+### Problem Description 
+Portfolio optimization refers to the problem of constructing an optimal portfolio of stocks. The common objective will be to maximize investment return with a given level of risk, or to minimize risk with a given level of return. 
 
-You can use the [editor on GitHub](https://github.com/snaxusuan/Portfolio-Optimization-Case-Study/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In reality, investors have to consider some other constraints such as limits on the number of unique assets in the portfolio or how many assets outside a specified benchmark can or must be added. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our challenge was to develop an equity portfolio optimization framework that improves returns as it compares to a benchmark portfolio with a same or slightly higher risk level. The optimization framework minimized the trade-off between risk, in the form of tracking error, and expected excess return through time, subject to several constraints. This problem represented a basic Markowitz portfolio optimization problem.
 
-### Markdown
+### Data Description
+We are given...
+- Covariance data was supplied in a long format and was given for every four weeks over a ten year period from 01-03-2007 to 12-21-2016. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- The time series data supplied included the names, SEDOL, Sector, bench weight, etc. for the stocks used in the benchmark portfolio at a given time. 
 
-```markdown
-Syntax highlighted code block
+- See Appendix 2 in the project execution section for more information
 
-# Header 1
-## Header 2
-### Header 3
+### Our Solution
+We created three functions to reorganize the given data to create a complete covariance matrix, to calculate portfolio variance with our data, and to create an optimized portfolio using Markowitz principles with added constraints. We calculated the benchmark portfolio performance and created comparison metrics to contrast our solution versus the benchmark. 
 
-- Bulleted
-- List
+### Outcome Description 
+The outcome description is a Markowitz portfolio optimized by our algorithm integrated with several constraints as stated in the problem description. The key output is the list of stocks and their optimized weights. 
 
-1. Numbered
-2. List
+### Solution Assessment and Impact 
+Once we had our algorithms created we ran our program of algorithms to construct our portfolios and fill a table to hold the comparison metrics. As a result, our constrained portfolio outperformed the benchmark by a factor of 9x, after the 10-year time frame our portfolio model cumulative returns were 388% where the benchmarks was 44%. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snaxusuan/Portfolio-Optimization-Case-Study/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
