@@ -1,4 +1,42 @@
-## Welcome to GitHub Pages
+
+
+**Team Introduction** 
+* individual background introduction
+* collaboration/communication methods, team formation
+
+**Project Description** 
+* Executive Summary 
+* Problem Statement 
+* Problem Description 
+* Data Description
+* Our Solution 
+* Outcome Description 
+* Solution Assessment and Impact 
+
+**Project Execution** 
+* Phase 1: Set up environment 
+* Phase 2: Create functions 
+* Phase 3: Calculate Bench Portfolio Metrics
+* Phase 4: Construct Final Dataset 
+* Phase 5: Create Return Matrix 
+* Phase 6: Construct Portfolio with Constraints 
+* Phase 7: Create Annual Data Table 
+* Phase 8: Save Data Sets, subsetted 
+* Phase 9: Visualize Performance 
+* Appendix 1: Data Dictionary 
+* Appendix 2: Key Data Inputs
+
+**Project Execution** 
+* Project Output
+* Scalable Solution
+  + Time: for n~inf options
+  + All Equity Market   
+* Future Improvement on Technical Project Collaboration
+  + Cloud Computer Solutions  
+
+
+
+## Project Description
 
 You can use the [editor on GitHub](https://github.com/snaxusuan/Portfolio-Optimization-Case-Study/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
