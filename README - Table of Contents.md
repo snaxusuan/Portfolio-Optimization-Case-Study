@@ -1,5 +1,5 @@
 
-# Table of Content
+# Table of Contents
 
 **Team Introduction** 
 * Meet the Team
