@@ -67,7 +67,7 @@ Kylene Ye
 
 https://www.linkedin.com/in/kylene-ye
 
-* Kylene is a accounting professional who leverages her avid love of business and technology to engage with individuals about the importance of analytical knowledge in business practices. She received her BS in Accounting from Case Western Reserve University and is currently studying at Columbia University. 
+* Kylene is an accounting professional who leverages her avid love of business and technology to engage with individuals about the importance of analytical knowledge in business practices. She received her BS in Accounting from Case Western Reserve University and is currently studying at Columbia University. 
 
 
 
