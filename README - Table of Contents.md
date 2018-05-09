@@ -1,11 +1,11 @@
 
 # Table of Contents
 
-**Team Introduction** 
+**Team Introduction (see below)** 
 * Meet the Team
 * Team Formation and Collaboration Method
 
-**Project Description** 
+**1. Project Description** 
 * Executive Summary 
 * Problem Statement 
   + Problem Description 
@@ -14,7 +14,7 @@
   + Outcome Description 
   + Solution Assessment and Impact 
 
-**Project Execution** 
+**2. Project Execution** 
 * Technical Summary 
 * Phase 1: Set up environment 
 * Phase 2: Create functions 
@@ -28,7 +28,7 @@
 * Appendix 1: Data Dictionary 
 * Appendix 2: Key Data Inputs
 
-**Project Summary** 
+**3. Project Summary** 
 * Project Output
 * Scalable Solution
   + Time: for n~inf options
