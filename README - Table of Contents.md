@@ -38,6 +38,7 @@
 
 # Team Introduction
 **Meet the Team**
+
 Elijah Hall
 * With a background and education in finance, economics and applied analytics, Elijah has over six years of experience serving in leadership positions varying from directing small, highly trained teams to coordinating complex plans with multiple agencies. He has a Bachelor’s in Finance from University of Washington and is a former Marine. He is currently studying at Columbia University in the Master’s program for Applied Analytics.
 
