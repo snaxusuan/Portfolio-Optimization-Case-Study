@@ -41,18 +41,23 @@
 
 Elijah Hall
 * With a background and education in finance, economics and applied analytics, Elijah has over six years of experience serving in leadership positions varying from directing small, highly trained teams to coordinating complex plans with multiple agencies. He has a Bachelor’s in Finance from University of Washington and is a former Marine. He is currently studying at Columbia University in the Master’s program for Applied Analytics.
+https://www.linkedin.com/in/elijah-hall-b0404692/
 
 Juhyuk Park
 * A procurement specialist with over 10 years of experience, Juhyuk is a technologically savvy operations professional currently studying at Columbia University. He received his Bachelor’s in Economics from University of North Carolina at Chapel Hill. 
+https://www.linkedin.com/in/juhyuk-park/
 
 Shan (Susan) Su
 * A data storyteller with hand-on experience in web analytics and customer analytics, Shan is a detailed-oriented professional. She received her BS in English from the University of International Business and Economics. She is currently studying to receive her Master’s degree in Applied Analytics from Columbia University. 
+https://www.linkedin.com/in/sushancolumbia/
 
 Aditi Wadhawan
 * A driven and analytical professional with almost 3 years of experience in a leading analytics firm,  Aditi has a diverse background in technology, operations and consulting. She obtained a Bachelor’s Degree in Computer Science from Jaypee Institute of Information Technology and is currently in Columbia University’s Masters in Applied Analytics program. 
+https://www.linkedin.com/in/aditi-wadhawan-358a92120/
 
 Kylene Ye
 * Kylene is a accounting professional who leverages her avid love of business and technology to engage with individuals about the importance of analytical knowledge in business practices. She received her BS in Accounting from Case Western Reserve University and is currently studying at Columbia University. 
+https://www.linkedin.com/in/kylene-ye
 
 **Team Formation and Collaboration Method**
 
